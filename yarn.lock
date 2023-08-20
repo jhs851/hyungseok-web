@@ -1658,6 +1658,11 @@ __metadata:
     react: 18.2.0
     react-dom: 18.2.0
     typescript: 5.1.6
+  dependenciesMeta:
+    eslint-config-next@13.4.19:
+      unplugged: true
+    eslint@8.47.0:
+      unplugged: true
   languageName: unknown
   linkType: soft
 
